@@ -57,7 +57,7 @@ menu:
         type: search
     - name: GitHub
       weight: 10
-      url: "https://github.com/oasci/bc-omics"
+      url: "https://github.com/oasci/bc-cadd"
       params:
         icon: github
 

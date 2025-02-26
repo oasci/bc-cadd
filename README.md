@@ -1,15 +1,18 @@
-<h1 align="center">Breadpan</h1>
+<h1 align="center">CADD</h1>
 
 <p align="center">
-    <a href="https://github.com/oasci/breadpan/actions">
-        <img src="https://github.com/oasci/breadpan/actions/workflows/pages.yaml/badge.svg" alt="Build Status ">
+    <a href="https://github.com/oasci/bc-cadd/actions">
+        <img src="https://github.com/oasci/bc-cadd/actions/workflows/pages.yaml/badge.svg" alt="Build Status ">
     </a>
     <a href="https://creativecommons.org/licenses/by/4.0/">
-        <img src="https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg" alt="License">
+        <img src="https://img.shields.io/badge/License-CC_BY_NC_SA_4.0-lightgrey.svg" alt="License">
     </a>
 </p>
 
-A template for breadcrumb sites.
+Welcome!
+This online resource is designed to provide students, researchers, and professionals with a comprehensive introduction to the fascinating field of Computer-Aided Drug Design (CADD).
+Here, you will find a wealth of information on the latest computational methods and tools used in drug discovery and development, as well as practical examples and case studies illustrating their application.
+Whether you are new to CADD or an experienced practitioner, this resource aims to equip you with the knowledge and skills needed to harness the power of computational approaches in the quest for new and improved medicines.
 
 ## Local Development
 
