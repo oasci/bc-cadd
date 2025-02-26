@@ -55,5 +55,5 @@ The relationship between the Gibbs free energy of binding ($\Delta G$) and the e
 
 <!-- REFERENCES -->
 
-[^nist-kb]: https://physics.nist.gov/cgi-bin/cuu/Value?k
-[^nist-na]: https://physics.nist.gov/cgi-bin/cuu/Value?na
+[^nist-kb]: <https://physics.nist.gov/cgi-bin/cuu/Value?k>
+[^nist-na]: <https://physics.nist.gov/cgi-bin/cuu/Value?na>

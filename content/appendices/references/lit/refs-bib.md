@@ -10,7 +10,7 @@
    publisher={American Chemical Society (ACS)},
    author={Eberhardt, Jerome and Santos-Martins, Diogo and Tillack, Andreas F. and Forli, Stefano},
    year={2021},
-   month=jul, pages={3891–3898} 
+   month=jul, pages={3891–3898}
 }
 
 @article{trott2009autodock,
@@ -24,7 +24,7 @@
    publisher={Wiley},
    author={Trott, Oleg and Olson, Arthur J.},
    year={2009},
-   month=jun, pages={455–461} 
+   month=jun, pages={455–461}
 }
 
 @article{morris1998automated,
@@ -38,7 +38,7 @@
    publisher={Wiley},
    author={Morris, Garrett M. and Goodsell, David S. and Halliday, Robert S. and Huey, Ruth and Hart, William E. and Belew, Richard K. and Olson, Arthur J.},
    year={1998},
-   month=nov, pages={1639–1662} 
+   month=nov, pages={1639–1662}
 }
 
 @article{goodsell1990automated,
@@ -52,5 +52,5 @@
    publisher={Wiley},
    author={Goodsell, David S. and Olson, Arthur J.},
    year={1990},
-   month=jan, pages={195–202} 
+   month=jan, pages={195–202}
 }

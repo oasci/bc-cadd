@@ -20,7 +20,7 @@ tags: literature
 
 ## Takeaways
 
-- TODO: Add takeaways if desired.
+-   TODO: Add takeaways if desired.
 
 ## Main
 

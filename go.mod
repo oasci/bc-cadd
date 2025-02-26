@@ -1,6 +1,8 @@
-module github.com/oasci/breadcrumb.crumblearn.org
+module github.com/oasci/bc-cadd
 
 go 1.21
 
-
-require github.com/imfing/hextra v0.9.4 // indirect
+require (
+	github.com/imfing/hextra v0.9.4 // indirect
+	github.com/oasci/crumblearn.org v0.0.0-20250226010644-e841cbd00303 // indirect
+)
